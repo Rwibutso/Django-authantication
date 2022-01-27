@@ -1,5 +1,5 @@
 from django.contrib import admin
 
-from .models import leadsapi 
+from .models import LeadModel 
 
-admin.site.register(leadsapi)
+admin.site.register(LeadModel)
